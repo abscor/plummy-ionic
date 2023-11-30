@@ -1,0 +1,7 @@
+{
+  "name": "plummy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
